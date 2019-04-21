@@ -11,7 +11,7 @@
   "scripts": {
     "test": "eslint ./test.js ./test.spec.js"
   },
-  "author": "",
+  "author": "dsemennyuk",
   "license": "MIT",
   "dependencies": {
     "babel-eslint": "^10.0.1",
